@@ -1,0 +1,22 @@
+[
+    {   "name" : "Visual Linguist",
+        "speakers" : [{ "speaker-name" : ""},
+					  { "speaker-name" : ""},
+					  { "speaker-name" : ""},
+					  { "speaker-name" : ""}],
+        "abstract" : ""
+    },
+    {   "name" : "Social Entity Modeler",
+        "speakers" : [{ "speaker-name" : ""},
+					  { "speaker-name" : ""}],
+        "abstract" : ""
+    },
+    {   "name" : "Connectivity Models",
+        "speakers" : [{ "speaker-name" : ""},
+					  { "speaker-name" : ""},
+					  { "speaker-name" : ""},
+					  { "speaker-name" : ""},
+					  { "speaker-name" : ""}],
+        "abstract" : ""
+    }
+]

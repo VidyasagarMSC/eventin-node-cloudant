@@ -1,0 +1,65 @@
+[
+    {
+        "date": "Tuesday, Sep 1st, 2015",
+        "location": "Bangalore",
+        "agenda": [
+            {
+                "name": "",
+                "start-time": "9:00",
+                "end-time": "10:30",
+				"speaker-photo": "images/speakerImages/Head.jpg",
+                "speakers": [
+                    {
+                        "speaker-name": "",
+                        "speaker-designation": "",
+                        "speaker-photo": ""
+                    },
+                    {
+                        "speaker-name": "j",
+                        "speaker-designation": "",
+                        "speaker-photo": "http://photo-link"
+                    },
+                    {
+                        "speaker-name": "",
+                        "speaker-designation": "",
+                        "speaker-photo": "http://photo-link"
+                    },
+                    {
+                        "speaker-name": "",
+                        "speaker-designation": "",
+                        "speaker-photo": "http://photo-link"
+                    },
+                    {
+                        "speaker-name": "",
+                        "speaker-designation": "",
+                        "speaker-photo": ""
+                    }
+                ],
+                "abstract": "",
+                "venue": ""
+            },
+            {
+                "name": "break",
+                "start-time": "10:30",
+                "end-time": "10:45",
+				"speaker-photo": "images/break.jpg",
+                "type": "just-break"
+            },
+            {
+                "name": "",
+                "start-time": "10:45",
+                "end-time": "12:00",
+				"speaker-photo": "images/speakerImages/Head.jpg",
+                "speakers": [
+                    {
+                        "speaker-name": "",
+                        "speaker-designation": "",
+                        "speaker-photo": "http://photo-link"
+                    }
+                ],
+                "abstract": "",
+                "venue": ""
+            }
+        ]
+    }
+]

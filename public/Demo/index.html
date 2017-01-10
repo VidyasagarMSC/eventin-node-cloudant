@@ -1,0 +1,381 @@
+<!DOCTYPE HTML>
+<!--
+	Miniport by HTML5 UP
+	html5up.net | @n33co
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+
+<head>
+    <title>Your Event</title>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
+    <link rel="stylesheet" href="public/Demo/assets/css/main.css" />
+    <!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
+    <!--[if lte IE 9]><link rel="stylesheet" href="assets/css/ie9.css" /><![endif]-->
+</head>
+
+<body>
+    <div ng-app="myApp" ng-controller="connectCtrl">
+        <!-- Nav -->
+        <nav id="nav">
+            <ul class="container">
+                <li><a href="#top">Home</a></li>
+                <li><a href="#day1">Day 1</a></li>
+                <li><a href="#day2">Day 2</a></li>
+
+                <li><a href="#MIIL">MIL</a></li>
+                <li><a href="#contact">Feedback</a></li>
+            </ul>
+        </nav>
+        <!-- <script src="cordova.js"></script>-->
+        <!-- Home -->
+        <div class="wrapper style1 first">
+            <article class="container" id="top">
+                <div class="row">
+                    <div class="4u 12u(mobile)">
+                        <span class="image fit"><img src="images/break.jpg" alt="" /></span>
+                    </div>
+                    <div class="8u 12u(mobile)">
+                        <header>
+                            <h1>Welcome to {Your Event}</h1>
+                            <h2>Subheading about the event</h2>
+                            <p>{Tagline}</p>
+                        </header>
+
+                        <a href="#Schedule" class="button big scrolly">Agenda</a>
+                        <a href="#MIIL" class="button big scrolly">MIL</a>
+                        <a href="#contact" class="button big scrolly">Feedback</a>
+                    </div>
+                </div>
+            </article>
+        </div>
+
+        <!-- Portfolio -->
+        <h1 style="text-align:center">Schedule</h1>
+        <div class="wrapper style3">
+            <section id="Schedule">
+                <article id="day1">
+                    <header>
+                        <h2><strong>Day 1</strong></h2>
+                        <p>Monday, Aug 31st, 2015</p>
+                        <p>Bangalore</p>
+                    </header>
+                    <div class="container">
+
+
+                        <div class="row">
+                            <div ng-repeat="data in details">
+                                <div ng-repeat="detail in data.agenda">
+                                    <div class="4u 12u(mobile)">
+                                        <article class="box style2">
+                                            <div ng-show="isUndefined(detail2['speaker-photo'])">
+                                                <a href="#" class="image featured"><img src="{{detail['speaker-photo']}}" alt="" /></a>
+                                            </div>
+                                            <h3>{{detail['start-time']}} to {{detail['end-time']}}</h3>
+                                            <p>{{detail.venue}}</p>
+                                            <h3>{{detail.name}}</h3>
+                                            <div ng-show="isUndefined(detail.type)">
+                                                <p>-{{detail.abstract}}
+                                                    <br>By</p>
+                                                <div ng-repeat="speaker in detail.speakers">
+                                                    <h3>
+                                        <strong>{{speaker['speaker-name']}}</strong></h3>
+                                                    <p>{{speaker['speaker-designation']}}</p>
+                                                    <a href="#contact">Feedback</a>
+                                                </div>
+                                            </div>
+
+                                        </article>
+                                    </div>
+                                </div>
+                            </div>
+                            <!--	<div class="4u 12u(mobile)">
+								<article class="box style2">
+									<a href="#" class="image featured"><img src="images/pic01.jpg" alt="" /></a>
+									<h3>9:00AM to 9:10 AM</h3>
+                                    <p>G1 old reception, Ground Floor</p>
+									<h3>Welcome</h3><p>- Welcome Address<br>By</p>
+                                    <h3><strong>Kaushik Bhaskar</strong></h3>
+                                        <p>VP, India Software Labs.</p>
+								</article>
+							</div>
+							<div class="4u 12u(mobile)">
+								<article class="box style2">
+									<a href="#" class="image featured"><img src="images/pic01.jpg" alt="" /></a>
+									<h3>9:10AM to 9:20 AM</h3>
+                                    <p>G1 old reception, Ground Floor</p>
+									<h3>Event Kick-off</h3><p>- Setting the context for the event and expectation from the participating leaders<br>By</p>
+                                    <h3><strong>Kaushik Bhaskar</strong></h3>
+                                        <p>VP, India Software Labs.</p>
+								</article>
+							</div>
+							<div class="4u 12u(mobile)">
+								<article class="box style2">
+									<a href="#" class="image featured"><img src="images/pic01.jpg" alt="" /></a>
+									<h3>9:00AM to 9:10 AM</h3>
+                                    <p>G1 old reception, Ground Floor</p>
+									<h3>Welcome</h3><p>- Welcome Address<br>By</p>
+                                    <h3><strong>Kaushik Bhaskar</strong></h3>
+                                        <p>VP, India Software Labs.</p>
+								</article>
+							</div>-->
+                        </div>
+
+                    </div>
+                    <footer>
+
+                    </footer>
+                </article>
+                <br>
+                <article id="day2">
+                    <header>
+                        <h2><strong>Day 2</strong></h2>
+                        <p>Tuesday, Sep 1st, 2015</p>
+                        <p>Bangalore</p>
+                    </header>
+                    <div class="container">
+
+
+                        <div class="row">
+                            <div ng-repeat="data2 in details2">
+                                <div ng-repeat="detail2 in data2.agenda">
+                                    <div class="4u 12u(mobile)">
+                                        <article class="box style2">
+                                            <div ng-show="isUndefined(detail2['speaker-photo'])">
+                                                <a href="#" class="image featured"><img src="{{detail2['speaker-photo']}}" alt="" /></a>
+                                            </div>
+                                            <h3>{{detail2['start-time']}} to {{detail2['end-time']}}</h3>
+                                            <p>{{detail2.venue}}</p>
+                                            <h3>{{detail2.name}}</h3>
+                                            <div ng-show="isUndefined(detail2.type)">
+                                                <p>-{{detail2.abstract}}
+                                                    <br>By</p>
+                                                <div ng-repeat="speaker in detail2.speakers">
+                                                    <h3>
+                                        <strong>{{speaker['speaker-name']}}</strong></h3>
+                                                    <p>{{speaker['speaker-designation']}}</p>
+                                                    <a href="#contact">Feedback</a>
+                                                </div>
+                                            </div>
+
+                                        </article>
+                                    </div>
+                                </div>
+                            </div>
+                            <!--	<div class="4u 12u(mobile)">
+								<article class="box style2">
+									<a href="#" class="image featured"><img src="images/pic01.jpg" alt="" /></a>
+									<h3>9:00AM to 9:10 AM</h3>
+                                    <p>G1 old reception, Ground Floor</p>
+									<h3>Welcome</h3><p>- Welcome Address<br>By</p>
+                                    <h3><strong>Kaushik Bhaskar</strong></h3>
+                                        <p>VP, India Software Labs.</p>
+								</article>
+							</div>
+							<div class="4u 12u(mobile)">
+								<article class="box style2">
+									<a href="#" class="image featured"><img src="images/pic01.jpg" alt="" /></a>
+									<h3>9:10AM to 9:20 AM</h3>
+                                    <p>G1 old reception, Ground Floor</p>
+									<h3>Event Kick-off</h3><p>- Setting the context for the event and expectation from the participating leaders<br>By</p>
+                                    <h3><strong>Kaushik Bhaskar</strong></h3>
+                                        <p>VP, India Software Labs.</p>
+								</article>
+							</div>
+							<div class="4u 12u(mobile)">
+								<article class="box style2">
+									<a href="#" class="image featured"><img src="images/pic01.jpg" alt="" /></a>
+									<h3>9:00AM to 9:10 AM</h3>
+                                    <p>G1 old reception, Ground Floor</p>
+									<h3>Welcome</h3><p>- Welcome Address<br>By</p>
+                                    <h3><strong>Kaushik Bhaskar</strong></h3>
+                                        <p>VP, India Software Labs.</p>
+								</article>
+							</div>-->
+                        </div>
+
+                    </div>
+                    <footer>
+
+                    </footer>
+                </article>
+            </section>
+        </div>
+
+        <!-- Schedule -->
+
+        <div class="wrapper style2">
+            <article id="MIIL">
+                <header>
+                    <h1>MIL</h1>
+                    <p></p>
+                </header>
+                <div class="container">
+
+
+                    <div class="row">
+                        <a href="#" class="image featured"> <img src="images/speakerImages/personHead.jpg" alt="" /> </a>
+
+                        <div ng-repeat="mil in mildata">
+
+                            <div class="4u 12u(mobile)">
+                                <article class="box style2">
+
+                                    <h3>{{mil.name}}</h3>
+                                    <p>{{mil.abstract}}
+                                        <br>By</p>
+                                    <div ng-repeat="speaker in mil.speakers">
+                                        <h3>
+                                        <strong>{{speaker['speaker-name']}}</strong></h3>
+                                        <p>{{speaker['speaker-designation']}}</p>
+
+                                    </div>
+                                    <a href="#contact">Feedback</a>
+                                </article>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+                <footer>
+
+                </footer>
+            </article>
+        </div>
+
+
+
+        <!-- Contact -->
+        <div class="wrapper style4">
+            <article id="contact" class="container 75%">
+                <header>
+                    <h2>Feedback</h2>
+                    <p></p>
+                </header>
+                <div>
+                    <div class="row">
+                        <div class="12u">
+                            <form method="post" action="#">
+                                <div>
+                                    <div class="row">
+                                        <div class="6u 12u(mobile)">
+                                            <input type="text" name="speakername" id="speakername" placeholder="Session Name" />
+                                        </div>
+                                        <div class="6u 12u(mobile)">
+                                            <input type="text" name="name" id="name" placeholder="Name" />
+                                        </div>
+                                        <div class="6u 12u(mobile)">
+                                            <input type="text" name="email" id="email" placeholder="Email" />
+                                        </div>
+                                    </div>
+                                    <div class="row">
+                                        <div class="12u">
+                                            <input type="text" name="feedback" id="feedback" placeholder="feedback" />
+                                        </div>
+                                    </div>
+                                    <!--<div class="row">
+											<div class="12u">
+												<textarea name="message" id="message" placeholder="Message"></textarea>
+											</div>
+										</div>-->
+                                    <div class="row 200%">
+                                        <div class="12u">
+                                            <ul class="actions">
+                                                <li>
+                                                    <input type="submit" value="Submit Feedback" />
+                                                </li>
+                                                <li>
+                                                    <input type="reset" value="Clear Form" class="alt" />
+                                                </li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                            </form>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="12u">
+                            <hr />
+                            <h3>Tweet</h3>
+                            <ul class="social">
+                                <a href="https://twitter.com/share" class="twitter-share-button" data-text="Auto generate client SDKS" data-size="large" data-related="" data-count="none" data-hashtags="">Tweet</a>
+                                <script>
+                                    ! function (d, s, id) {
+                                        var js, fjs = d.getElementsByTagName(s)[0],
+                                            p = /^http:/.test(d.location) ? 'http' : 'https';
+                                        if (!d.getElementById(id)) {
+                                            js = d.createElement(s);
+                                            js.id = id;
+                                            js.src = p + '://platform.twitter.com/widgets.js';
+                                            fjs.parentNode.insertBefore(js, fjs);
+                                        }
+                                    }(document, 'script', 'twitter-wjs');
+                                </script>
+                                <!--
+									<li><a href="#" class="icon fa-rss"><span>RSS</span></a></li>
+									<li><a href="#" class="icon fa-instagram"><span>Instagram</span></a></li>
+									<li><a href="#" class="icon fa-foursquare"><span>Foursquare</span></a></li>
+									<li><a href="#" class="icon fa-skype"><span>Skype</span></a></li>
+									<li><a href="#" class="icon fa-soundcloud"><span>Soundcloud</span></a></li>
+									<li><a href="#" class="icon fa-youtube"><span>YouTube</span></a></li>
+									<li><a href="#" class="icon fa-blogger"><span>Blogger</span></a></li>
+									<li><a href="#" class="icon fa-flickr"><span>Flickr</span></a></li>
+									<li><a href="#" class="icon fa-vimeo"><span>Vimeo</span></a></li>
+									-->
+                            </ul>
+                            <hr />
+                        </div>
+                    </div>
+                </div>
+                <footer>
+                    <ul id="copyright">
+                        <li>&copy; IBM. All rights reserved.</li>
+                    </ul>
+                </footer>
+            </article>
+        </div>
+    </div>
+    <!-- Scripts -->
+    <script src="assets/js/jquery.min.js"></script>
+    <script src="assets/js/jquery.scrolly.min.js"></script>
+    <script src="assets/js/skel.min.js"></script>
+    <script src="assets/js/skel-viewport.min.js"></script>
+    <script src="assets/js/util.js"></script>
+    <!--[if lte IE 8]><script src="assets/js/ie/respond.min.js"></script><![endif]-->
+    <script src="assets/js/main.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.3.15/angular.min.js"></script>
+
+    <script>
+        var app = angular.module('myApp', []);
+        app.controller('connectCtrl', function ($scope, $http) {
+
+
+            $http.get('../public/Demo/assets/json/data.json')
+                .success(function (data) {
+
+                    $scope.details = data;
+                });
+
+            $http.get('../public/Demo/assets/json/data2.json')
+                .success(function (data) {
+
+                    $scope.details2 = data;
+                });
+
+            $http.get('../public/Demo/assets/json/mil.json')
+                .success(function (data) {
+                    $scope.mildata = data;
+                });
+
+            $scope.isUndefined = function (thing) {
+                return (typeof thing === "undefined");
+            };
+        });
+    </script>
+
+</body>
+
+</html>

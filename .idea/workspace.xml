@@ -1,0 +1,575 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5dc41d93-03ac-4cdd-b548-f8c5e5c58465" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/speakerImages/personHead.jpg" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/Demo/images/connectin_360.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/Demo/images/milspeakerphotos/AbhishekKhetan.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/Demo/images/milspeakerphotos/AgbarBashaShaik.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/Demo/images/milspeakerphotos/AjayChebbi.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/Demo/images/milspeakerphotos/AlokKumarJha.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/Demo/images/milspeakerphotos/AmitBhat.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/Demo/images/milspeakerphotos/AmitMMangalvedkar.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/Demo/images/milspeakerphotos/AmrithaAlapati.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/Demo/images/milspeakerphotos/AnandIyer.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/Demo/images/milspeakerphotos/AnandRajan.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/Demo/images/milspeakerphotos/AnbumuneePonniah.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/Demo/images/milspeakerphotos/AnupamaRaman.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/Demo/images/milspeakerphotos/AnuragSrivastava.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/Demo/images/milspeakerphotos/ArulDoraisamy.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/Demo/images/milspeakerphotos/AshishKMathur.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/Demo/images/milspeakerphotos/BalasubramanianManivasagam.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/Demo/images/milspeakerphotos/BalunainiPrasad.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/Demo/images/milspeakerphotos/ChandraDevulapalli.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/Demo/images/milspeakerphotos/ChethanKnSettipalli.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/Demo/images/milspeakerphotos/GargiDasgupta.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/Demo/images/milspeakerphotos/GopalakrishnanBalasubramanian.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/Demo/images/milspeakerphotos/GyanaRParija.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/Demo/images/milspeakerphotos/HemanthKadambala.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/Demo/images/milspeakerphotos/JeffreyIsDare.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/Demo/images/milspeakerphotos/JibinSChavara.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/Demo/images/milspeakerphotos/KrishnaswamyPrithi.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/Demo/images/milspeakerphotos/LalithaPannala.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/Demo/images/milspeakerphotos/LogeshRM.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/Demo/images/milspeakerphotos/MadhaviKatari.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/Demo/images/milspeakerphotos/MadhusudananKandasamy.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/Demo/images/milspeakerphotos/MamathaBusi.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/Demo/images/milspeakerphotos/ManojDusanapudi.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/Demo/images/milspeakerphotos/MeeraRangarajan.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/Demo/images/milspeakerphotos/MohammedSFarook.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/Demo/images/milspeakerphotos/NilimaSrivastava.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/Demo/images/milspeakerphotos/NirmalKumarR.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/Demo/images/milspeakerphotos/NitendraRajput.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/Demo/images/milspeakerphotos/PabitraMukhopadhyay.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/Demo/images/milspeakerphotos/ParagGokhale.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/Demo/images/milspeakerphotos/ParameswaranV.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/Demo/images/milspeakerphotos/PrashantNKulkarni.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/Demo/images/milspeakerphotos/PrashantPPillai.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/Demo/images/milspeakerphotos/PraveenNettimi.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/Demo/images/milspeakerphotos/PriyankaSharma.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/Demo/images/milspeakerphotos/PushkarKulkarni.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/Demo/images/milspeakerphotos/RakeshSRao.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/Demo/images/milspeakerphotos/RinkeshBansal.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/Demo/images/milspeakerphotos/RohitShetty.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/Demo/images/milspeakerphotos/RuhiSharma.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/Demo/images/milspeakerphotos/SanjayBPanikkar.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/Demo/images/milspeakerphotos/SanjayPanchal.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/Demo/images/milspeakerphotos/SaraswathiPerumalla.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/Demo/images/milspeakerphotos/SaravananSethuraman.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/Demo/images/milspeakerphotos/SathiskumarPalaniappan.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/Demo/images/milspeakerphotos/SatishHonnavalli.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/Demo/images/milspeakerphotos/SaurabhGupta.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/Demo/images/milspeakerphotos/SgSenthilvel.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/Demo/images/milspeakerphotos/ShankarVenkatachalam.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/Demo/images/milspeakerphotos/SheemaFarheen.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/Demo/images/milspeakerphotos/ShivaramakrishnanGopalakrishnan.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/Demo/images/milspeakerphotos/SivapathamMuthaiah.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/Demo/images/milspeakerphotos/SomaShekar.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/Demo/images/milspeakerphotos/SowmyaHDayananda.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/Demo/images/milspeakerphotos/SreekanthRIyer.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/Demo/images/milspeakerphotos/SreelathaSankaranarayanan.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/Demo/images/milspeakerphotos/SriharshaVarada.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/Demo/images/milspeakerphotos/SrinivasaraoKakaraparti.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/Demo/images/milspeakerphotos/SubhathraSrinivasaraghavan.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/Demo/images/milspeakerphotos/SudhanshuSSar.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/Demo/images/milspeakerphotos/SujithRPillai.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/Demo/images/milspeakerphotos/SundeepMulampaka.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/Demo/images/milspeakerphotos/SureshNagulakonda.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/Demo/images/milspeakerphotos/SureshSrinivasan.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/Demo/images/milspeakerphotos/SushmitaAllam.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/Demo/images/milspeakerphotos/VaidyanathanSrinivasan.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/Demo/images/milspeakerphotos/VeerendraPara.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/Demo/images/milspeakerphotos/VenkatArra.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/Demo/images/milspeakerphotos/VigneshSubramanian.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/Demo/images/milspeakerphotos/VijayE.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/Demo/images/milspeakerphotos/VikasRaykar.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/Demo/images/milspeakerphotos/VishnuNKv.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/Demo/images/milspeakerphotos/VivekSharma.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/Demo/images/speakerImages/ArunaSchwarz.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/Demo/images/speakerImages/ArvindShetty.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/Demo/images/speakerImages/BrahmaAcharya.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/Demo/images/speakerImages/CommunityTechTalk.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/Demo/images/speakerImages/DrJayaramKIyer.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/Demo/images/speakerImages/GauravSharma.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/Demo/images/speakerImages/GirishDhanakshirur.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/Demo/images/speakerImages/GregTruty.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/Demo/images/speakerImages/Hackathon.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/Demo/images/speakerImages/HimanshuRaj.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/Demo/images/speakerImages/KaushikBhaskar.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/Demo/images/speakerImages/MadeInIBMLabs.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/Demo/images/speakerImages/MarshallLamb.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/Demo/images/speakerImages/MichaelKaczmarski.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/Demo/images/speakerImages/NRavishankar.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/Demo/images/speakerImages/NeetiSukhtankar.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/Demo/images/speakerImages/RVijaykumar.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/Demo/images/speakerImages/RajavelSekaran.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/Demo/images/speakerImages/RaviGururaj.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/Demo/images/speakerImages/RendezvouswithClient.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/Demo/images/speakerImages/RobHigh.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/Demo/images/speakerImages/RohanJoshi.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/Demo/images/speakerImages/RohitShetty.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/Demo/images/speakerImages/ShaliniSahay.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/Demo/images/speakerImages/SiddharthPurohit.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/Demo/images/speakerImages/Startup.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/Demo/images/speakerImages/ThejaswiniRamachandra.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/Demo/images/speakerImages/VanithaNarayanan.jpg" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/manifest.yml" afterPath="$PROJECT_DIR$/manifest.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/Demo/assets/json/data.json" afterPath="$PROJECT_DIR$/public/Demo/assets/json/data.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/Demo/assets/json/data2.json" afterPath="$PROJECT_DIR$/public/Demo/assets/json/data2.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/Demo/assets/json/mil.json" afterPath="$PROJECT_DIR$/public/Demo/assets/json/mil.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/Demo/index.html" afterPath="$PROJECT_DIR$/public/Demo/index.html" />
+    </list>
+    <ignored path="ConnectIN.1.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="ConnectIN.1" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/public/Demo/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.4753577">
+              <caret line="201" column="28" selection-start-line="201" selection-start-column="28" selection-end-line="201" selection-end-column="28" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="data.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/Demo/assets/json/data.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-12.5">
+              <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="mil.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/Demo/assets/json/mil.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.625">
+              <caret line="1" column="18" selection-start-line="1" selection-start-column="18" selection-end-line="1" selection-end-column="33" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="data2.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/Demo/assets/json/data2.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-21.708334">
+              <caret line="61" column="13" selection-start-line="61" selection-start-column="13" selection-end-line="61" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/manifest.yml" />
+        <option value="$PROJECT_DIR$/public/Demo/assets/json/mil.json" />
+        <option value="$PROJECT_DIR$/public/Demo/assets/json/data2.json" />
+        <option value="$PROJECT_DIR$/public/Demo/assets/json/data.json" />
+        <option value="$PROJECT_DIR$/public/Demo/index.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsBuildToolPackageJson" detection-done="true">
+    <package-json value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="4" />
+    <option name="y" value="23" />
+    <option name="width" value="1276" />
+    <option name="height" value="777" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ConnectIN.1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ConnectIN.1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ConnectIN.1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ConnectIN.1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ConnectIN.1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="routes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ConnectIN.1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ConnectIN.1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ConnectIN.1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ConnectIN.1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="images" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ConnectIN.1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ConnectIN.1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="images" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="speakerImages" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ConnectIN.1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ConnectIN.1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Demo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public/images/speakerImages" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartTestRunConfigurationType" factoryName="Dart Test">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" config-file="">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" value="" />
+      <option name="executablePath" />
+      <option name="filePath" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-options />
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5dc41d93-03ac-4cdd-b548-f8c5e5c58465" name="Default" comment="" />
+      <created>1481785727667</created>
+      <option name="number" value="Default" />
+      <updated>1481785727667</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="4" y="23" width="1276" height="777" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/Demo/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manifest.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="2" column="31" selection-start-line="2" selection-start-column="31" selection-end-line="2" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/Demo/images/break.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/Demo/images/Leadership.jpeg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manifest.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="2" column="31" selection-start-line="2" selection-start-column="31" selection-end-line="2" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/Demo/images/Leadership.jpeg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/Demo/images/bu_meeting.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/Demo/images/break.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/Demo/images/pic00.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/Demo/images/pic01.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/Demo/images/pic03.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/Demo/images/pic04.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/Demo/images/pic05.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/Demo/images/pic06.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/Demo/assets/json/mil.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.625">
+          <caret line="1" column="18" selection-start-line="1" selection-start-column="18" selection-end-line="1" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/Demo/assets/json/data.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-12.5">
+          <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/images/speakerImages/personHead.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/Demo/assets/json/data2.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-21.708334">
+          <caret line="61" column="13" selection-start-line="61" selection-start-column="13" selection-end-line="61" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/Demo/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.4753577">
+          <caret line="201" column="28" selection-start-line="201" selection-start-column="28" selection-end-line="201" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

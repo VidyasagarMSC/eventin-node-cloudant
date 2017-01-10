@@ -1,0 +1,11 @@
+applications:
+- services:
+  - MyDemoforCF-cloudantNoSQLDB
+  disk_quota: 512M
+  host: EventIN
+  name: EventIN
+  command: node app.js
+  path: .
+  domain: mybluemix.net
+  instances: 1
+  memory: 512M

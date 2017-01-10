@@ -1,0 +1,80 @@
+
+
+{
+
+   "name": "Node.js Cloudant DB Web Starter",
+
+   "services": [
+
+		{
+
+            "name": "cloudantNoSQLDB",
+
+            "choices": ["免费"]
+
+        }
+
+    ],
+
+	"defaultMemory": 512,
+
+    "startCommand": "node app.js",
+
+    "description": "此应用程序说明如何通过 IBM Cloud 上的“Node.js”运行时从节点 Web 应用程序连接到 Cloudant DB 服务以及使用此服务。",
+
+    "type": "web",
+
+    "version": "1.0",
+
+    "smallIcon": "node_cloudant_small.png",
+
+    "icon": "node_cloudant_icon.png",
+
+    "largeIcon": "node_cloudant_large.png",
+
+    "featuredIcon": "node_cloudant_featured.png",
+
+    "marqueeIcon": "node_cloudant_marquee.png",
+
+    "headingIcon": "node_cloudant_heading.png",
+
+    "instructions": "app/instructions.md",
+
+    "source": {
+
+        "scmType": "git",
+
+        "url": ".git",
+
+        "appPath": "app"
+
+    },
+
+    "docURL": "/#starters/node-cloudant/index.html#node-cloudant",
+
+    "system_tags": ["ibm_created"],
+
+	"runtime_id": "763dcb4a-8642-4676-ae17-ca5bd032ad9e",
+
+    "metadata": {
+
+        "termsUrl": "https://www.ibm.com/software/sla/sladb.nsf/sla/bm-6622-01",
+
+		"bssRuntimeName": "sdk-for-nodejs"
+
+    },
+
+	"runtime_template_id": "nodejsHelloWorld", 
+
+	"runtime": {
+
+        "name": "SDK for Node.js\u2122"
+
+    },
+
+    "categories": ["样板"]
+
+}
+
+
+

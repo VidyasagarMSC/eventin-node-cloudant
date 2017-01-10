@@ -1,0 +1,24 @@
+[
+    {
+        "date": "Monday, Aug 31st, 2015",
+        "location": "Bangalore",
+        "agenda": [
+            {
+                "name": "",
+                "start-time": "8:20",
+                "end-time": "8:52",
+                "speaker-photo": "",
+                "speakers": [
+                    {
+                        "speaker-name": "",
+                        "speaker-designation": "",
+                        "speaker-photo": "http://photo-link"
+                    }
+                ],
+                "abstract": "",
+                "venue": ""
+            }
+
+        ]
+    }
+]
