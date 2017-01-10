@@ -55,11 +55,11 @@ function initDBConnection() {
 		console.log('VCAP Services: '+JSON.stringify(process.env.VCAP_SERVICES));
 	}
     else{
-            dbCredentials.host = "ffe37731-0505-4683-96a8-87d02a33e03e-bluemix.cloudant.com";
+            dbCredentials.host = "<Cloudant_Host>";
 			dbCredentials.port = 443;
-			dbCredentials.user = "ffe37731-0505-4683-96a8-87d02a33e03e-bluemix";
-			dbCredentials.password = "c7003d0b156d9c4ce856c4e6b4427f3b576c7ea6229235f0369ada1ed47b159c";
-			dbCredentials.url = "https://ffe37731-0505-4683-96a8-87d02a33e03e-bluemix:c7003d0b156d9c4ce856c4e6b4427f3b576c7ea6229235f0369ada1ed47b159c@ffe37731-0505-4683-96a8-87d02a33e03e-bluemix.cloudant.com";
+			dbCredentials.user = "<Cloudant_Username";
+			dbCredentials.password = "<Cloudant_Password>";
+			dbCredentials.url = "<Cloudant_Url_with_https>";
         
     }
 
