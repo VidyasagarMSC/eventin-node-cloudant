@@ -1,6 +1,6 @@
 applications:
 - services:
-  - MyDemoforCF-cloudantNoSQLDB
+  - EventIN-cloudantNoSQLDB
   disk_quota: 512M
   host: EventIN
   name: EventIN
